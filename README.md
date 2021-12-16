@@ -1,2 +1,2 @@
 # webdocsitalia
-Un progetto che raduna informazione e documentazione per le tecnologie Web.
+Un progetto che raduna informazioni, strumenti e documentazione per le tecnologie Web in italiano.
